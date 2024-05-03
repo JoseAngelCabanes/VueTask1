@@ -3,7 +3,6 @@ const app = Vue.createApp({
         return {
             name: 'Ángel',
             age: '24',
-            agePlus: '',
             vueImage: 'https://statisticsbyjim.com/wp-content/uploads/2019/05/random_dice.png'
         }
     },
